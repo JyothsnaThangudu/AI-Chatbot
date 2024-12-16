@@ -13,11 +13,11 @@ This AI-powered chatbot is built using React, JavaScript, HTML, and CSS. It leve
 
 ## Technologies Used
 
-1.React: JavaScript library for building user interfaces.
-2.JavaScript: Handles the chatbot logic and API interactions.
-3.HTML & CSS: Used for the structure and styling of the chatbot.
-4.Gemini API: Powers the AI-driven chatbot conversations.
-5.Vite: A build tool that provides fast development with Hot Module Replacement (HMR).
+1.React: JavaScript library for building user interfaces.  
+2.JavaScript: Handles the chatbot logic and API interactions.  
+3.HTML & CSS: Used for the structure and styling of the chatbot.  
+4.Gemini API: Powers the AI-driven chatbot conversations.  
+5.Vite: A build tool that provides fast development with Hot Module Replacement (HMR).  
 
 ## Getting Started
 
