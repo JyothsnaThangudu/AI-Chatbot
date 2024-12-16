@@ -1,4 +1,4 @@
-## React + Vite
+Check out the Bot here: https://chatmate-est7grgqs-jyothsna-thangudus-projects.vercel.app/
 
 # AI Chatbot  
 
